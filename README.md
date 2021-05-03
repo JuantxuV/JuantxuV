@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuantxuV
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning C++;
+- 🌱 I’m currently developing C++ projects;
 - 💞️ I’m looking to collaborate on anything I could.
 - 📫 How to reach me juantxu.vivancos@gmail.com
 
